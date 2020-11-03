@@ -6,6 +6,10 @@ header{
     float: left;
 }
 
-#logo-link{
+#logo-link img{
     width: 140px;
+}
+
+header nav{
+    float: right;
 }
